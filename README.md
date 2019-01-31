@@ -8,3 +8,8 @@
 
 ## 下载app体验
 ![screenshot](https://www.pgyer.com/app/qrcode/eIa5)
+
+##TODO
+路由导航
+网络请求封装
+列表下拉刷新，上拉加载
